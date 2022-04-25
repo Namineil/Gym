@@ -1,0 +1,222 @@
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Gym.API.exe
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Gym.API.deps.json
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Gym.API.runtimeconfig.json
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Gym.API.runtimeconfig.dev.json
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Gym.API.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Gym.API.pdb
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\NCoreUtils.Data.Abstractions.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\NCoreUtils.Data.EntityFrameworkCore.ModelBuilderExtensions.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\NCoreUtils.Linq.Extensions.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\NCoreUtils.Maybe.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+E:\Курсовой проект - web API\Gym.API\obj\Debug\netcoreapp3.1\Gym.API.csprojAssemblyReference.cache
+E:\Курсовой проект - web API\Gym.API\obj\Debug\netcoreapp3.1\Gym.API.AssemblyInfoInputs.cache
+E:\Курсовой проект - web API\Gym.API\obj\Debug\netcoreapp3.1\Gym.API.AssemblyInfo.cs
+E:\Курсовой проект - web API\Gym.API\obj\Debug\netcoreapp3.1\Gym.API.csproj.CoreCompileInputs.cache
+E:\Курсовой проект - web API\Gym.API\obj\Debug\netcoreapp3.1\Gym.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Курсовой проект - web API\Gym.API\obj\Debug\netcoreapp3.1\Gym.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Курсовой проект - web API\Gym.API\obj\Debug\netcoreapp3.1\Gym.API.RazorTargetAssemblyInfo.cache
+E:\Курсовой проект - web API\Gym.API\obj\Debug\netcoreapp3.1\Gym.API.csproj.CopyComplete
+E:\Курсовой проект - web API\Gym.API\obj\Debug\netcoreapp3.1\staticwebassets\Gym.API.StaticWebAssets.Manifest.cache
+E:\Курсовой проект - web API\Gym.API\obj\Debug\netcoreapp3.1\staticwebassets\Gym.API.StaticWebAssets.xml
+E:\Курсовой проект - web API\Gym.API\obj\Debug\netcoreapp3.1\Gym.API.dll
+E:\Курсовой проект - web API\Gym.API\obj\Debug\netcoreapp3.1\Gym.API.pdb
+E:\Курсовой проект - web API\Gym.API\obj\Debug\netcoreapp3.1\Gym.API.genruntimeconfig.cache
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Курсовой проект - web API\Gym.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Gym.API.exe
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Gym.API.deps.json
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Gym.API.runtimeconfig.json
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Gym.API.runtimeconfig.dev.json
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Gym.API.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Gym.API.pdb
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\NCoreUtils.Data.Abstractions.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\NCoreUtils.Data.EntityFrameworkCore.ModelBuilderExtensions.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\NCoreUtils.Linq.Extensions.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\NCoreUtils.Maybe.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\obj\Debug\netcoreapp3.1\Gym.API.csprojAssemblyReference.cache
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\obj\Debug\netcoreapp3.1\Gym.API.AssemblyInfoInputs.cache
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\obj\Debug\netcoreapp3.1\Gym.API.AssemblyInfo.cs
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\obj\Debug\netcoreapp3.1\Gym.API.csproj.CoreCompileInputs.cache
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\obj\Debug\netcoreapp3.1\Gym.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\obj\Debug\netcoreapp3.1\Gym.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\obj\Debug\netcoreapp3.1\staticwebassets\Gym.API.StaticWebAssets.Manifest.cache
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\obj\Debug\netcoreapp3.1\staticwebassets\Gym.API.StaticWebAssets.xml
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Gym.API.styles.css
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\obj\Debug\netcoreapp3.1\Gym.API.RazorTargetAssemblyInfo.cache
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\obj\Debug\netcoreapp3.1\Gym.API.csproj.CopyComplete
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\obj\Debug\netcoreapp3.1\Gym.API.dll
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\obj\Debug\netcoreapp3.1\Gym.API.pdb
+D:\Дипломный проэкт\Gym_.NET-master\Gym.API\obj\Debug\netcoreapp3.1\Gym.API.genruntimeconfig.cache
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Gym.API.exe
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Gym.API.deps.json
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Gym.API.runtimeconfig.json
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Gym.API.runtimeconfig.dev.json
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Gym.API.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Gym.API.pdb
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\NCoreUtils.Data.Abstractions.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\NCoreUtils.Data.EntityFrameworkCore.ModelBuilderExtensions.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\NCoreUtils.Linq.Extensions.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\NCoreUtils.Maybe.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Diplom\Gym_.NET-master\Gym.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Diplom\Gym_.NET-master\Gym.API\obj\Debug\netcoreapp3.1\Gym.API.csprojAssemblyReference.cache
+D:\Diplom\Gym_.NET-master\Gym.API\obj\Debug\netcoreapp3.1\Gym.API.AssemblyInfoInputs.cache
+D:\Diplom\Gym_.NET-master\Gym.API\obj\Debug\netcoreapp3.1\Gym.API.AssemblyInfo.cs
+D:\Diplom\Gym_.NET-master\Gym.API\obj\Debug\netcoreapp3.1\Gym.API.csproj.CoreCompileInputs.cache
+D:\Diplom\Gym_.NET-master\Gym.API\obj\Debug\netcoreapp3.1\Gym.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Diplom\Gym_.NET-master\Gym.API\obj\Debug\netcoreapp3.1\Gym.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Diplom\Gym_.NET-master\Gym.API\obj\Debug\netcoreapp3.1\Gym.API.RazorTargetAssemblyInfo.cache
+D:\Diplom\Gym_.NET-master\Gym.API\obj\Debug\netcoreapp3.1\Gym.API.csproj.CopyComplete
+D:\Diplom\Gym_.NET-master\Gym.API\obj\Debug\netcoreapp3.1\staticwebassets\Gym.API.StaticWebAssets.Manifest.cache
+D:\Diplom\Gym_.NET-master\Gym.API\obj\Debug\netcoreapp3.1\staticwebassets\Gym.API.StaticWebAssets.xml
+D:\Diplom\Gym_.NET-master\Gym.API\obj\Debug\netcoreapp3.1\Gym.API.dll
+D:\Diplom\Gym_.NET-master\Gym.API\obj\Debug\netcoreapp3.1\Gym.API.pdb
+D:\Diplom\Gym_.NET-master\Gym.API\obj\Debug\netcoreapp3.1\Gym.API.genruntimeconfig.cache

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="text_bottom">#F73471</color>
+    <color name="ripple_effect_sign_in">#F73471</color>
+    <color name="ripple_effect_register">#bd0000</color>
+    <color name="btn_sign_in">#eb7c9f</color>
+    <color name="btn_sign_stroke">#99425d</color>
+    <color name="btn_register">#ff004f</color>
+    <color name="btn_register_stroke">#a60336</color>
+    <color name="red">#ff0000</color>
+    <color name="blue">#0022ff</color>
+    <color name="gray">#8a8a8a</color>
+    <color name="green">#00ff00</color>
+    <color name="colorPrimary">#ff0000</color>
+    <color name="cardColor">#DDE3F3</color>
+    <color name="btnlightBlueDown">#0099CC</color>
+    <color name="btnlightBlueUp">#3EADEB</color>
+    <color name="now_day">#28ABE1</color>
+    <color name="darkgreen">#008C06</color>
+</resources>

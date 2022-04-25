@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Fitnezz</string>
+    <string name="app_title">Fitnezz</string>
+    <string name="app_author">info@fitness.com</string>
+    <string name="text_bottom">Войдите в свою учетную запись</string>
+    <string name="btnSignIn">Войти</string>
+    <string name="btnRegister">Зарегистрироваться</string>
+    <string name="email">Email</string>
+    <string name="weight">Мой текущий вес</string>
+    <string name="login">Логин</string>
+    <string name="phone">Телефон</string>
+    <string name="fullName">ФИО</string>
+    <string name="image">Изображение</string>
+    <string name="birthday">День рождение</string>
+    <string name="gender">Стать</string>
+    <string name="password">Пароль</string>
+    <string name="title_news">Новости</string>
+    <string name="my_card">my_card</string>
+    <string name="rememberMe">Запомнить пароль и логин</string>
+    <string name="home">Главная</string>
+    <string name="schedule">Расписание</string>
+    <string name="profile">Профиль</string>
+    <string name="my_notes">Мои записи</string>
+    <string name="services">Услуги</string>
+    <string name="registration_for_fitness_classes">Запись на фитнес занятия</string>
+    <string name="notes_for_fitness_classes">Записи на фитнес занятия</string>
+    <string name="notes_not">Отсуствуют записи на занятия</string>
+    <string name="btnRegistration">Записаться</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="trainer">trainer</string>
+    <string name="tv_time">Время</string>
+    <string name="tv_trainer">Тренер</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отменить</string>
+    <string name="exit">Выйти</string>
+    <string name="change_user_pass">Изменить логин и пароль</string>
+    <string name="change_profile">Изменить профиль</string>
+    <string-array name="gender">
+        <item>мужской</item>
+        <item>женский</item>
+    </string-array>
+</resources>

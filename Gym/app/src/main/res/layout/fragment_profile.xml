@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:fbutton="http://schemas.android.com/apk/res-auto"
+    tools:context=".fragment.ProfileFragment">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/civ_profile_pic"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <View
+        android:id="@+id/v_user_data_card"
+        android:layout_width="0dp"
+        android:layout_height="450dp"
+        android:layout_marginTop="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/civ_profile_pic"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <TextView
+        android:id="@+id/tv_profile_user_name"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="8dp"
+        android:gravity="center_horizontal"
+        android:textAlignment="center"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/v_user_data_card" />
+
+    <TextView
+        android:id="@+id/tv_profile_user_email"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="8dp"
+        android:gravity="center_horizontal"
+        android:textAlignment="center"
+        android:textSize="15sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_profile_user_name" />
+
+    <TextView
+        android:id="@+id/tv_profile_user_phone"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="8dp"
+        android:gravity="center_horizontal"
+        android:textAlignment="center"
+        android:textSize="15sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_profile_user_email" />
+
+    <TextView
+        android:id="@+id/tv_profile_user_birthday"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="8dp"
+        android:gravity="center_horizontal"
+        android:textAlignment="center"
+        android:textSize="15sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_profile_user_phone" />
+
+    <com.rengwuxian.materialedittext.MaterialEditText
+        android:id="@+id/met_me_weight"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="8dp"
+        android:gravity="center_horizontal"
+        android:textAlignment="center"
+        android:hint="@string/weight"
+        android:inputType="none"
+        android:textColor="@color/design_default_color_primary"
+        android:textColorHint="@color/design_default_color_primary_dark"
+        android:textSize="20sp"
+        app:met_baseColor="@color/gray"
+        app:met_errorColor="@color/red"
+        app:met_floatingLabel="highlight"
+        app:met_primaryColor="@color/blue"
+        app:met_singleLineEllipsis="true"
+        tools:ignore="MissingConstraints"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_profile_user_birthday"/>
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:id="@+id/llc_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/met_me_weight">
+
+    <info.hoang8f.widget.FButton
+        android:id="@+id/btn_profile_user_login_password"
+        android:layout_width="180sp"
+        android:layout_height="40dp"
+        android:layout_marginEnd="8dp"
+        android:paddingTop="5dp"
+        android:text="@string/change_user_pass"
+        android:gravity="center_horizontal"
+        android:textAlignment="center"
+        android:textSize="11sp"
+        app:fButtonColor="@color/btnlightBlueUp"
+        fbutton:shadowColor="@color/btnlightBlueDown"
+        fbutton:shadowEnabled="true"
+        fbutton:shadowHeight="5dp"
+        fbutton:cornerRadius="5dp"
+        android:textColor="@color/white"
+        android:textStyle="bold"/>
+
+    <info.hoang8f.widget.FButton
+        android:id="@+id/btn_profile_user_card_date"
+        android:layout_width="180sp"
+        android:layout_height="40dp"
+        android:layout_marginStart="8dp"
+        android:paddingTop="5dp"
+        android:text="@string/change_profile"
+        android:gravity="center_horizontal"
+        android:textAlignment="center"
+        android:textSize="11sp"
+        app:fButtonColor="@color/btnlightBlueUp"
+        fbutton:shadowColor="@color/btnlightBlueDown"
+        fbutton:shadowEnabled="true"
+        fbutton:shadowHeight="5dp"
+        fbutton:cornerRadius="5dp"
+        android:textColor="@color/white"
+        android:textStyle="bold"/>
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <info.hoang8f.widget.FButton
+        android:id="@+id/btn_exit"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="8dp"
+        android:paddingTop="3dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="8dp"
+        android:gravity="center_horizontal"
+        android:textAlignment="center"
+        android:textSize="15sp"
+        android:text="@string/exit"
+        app:fButtonColor="@color/btnlightBlueUp"
+        fbutton:shadowColor="@color/btnlightBlueDown"
+        fbutton:shadowEnabled="true"
+        fbutton:shadowHeight="5dp"
+        fbutton:cornerRadius="5dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/llc_button"
+        android:textColor="@color/white"
+        android:textStyle="bold"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

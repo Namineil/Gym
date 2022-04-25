@@ -1,0 +1,35 @@
+POST  http://192.168.0.177:5000/api/auth/authenticate
+Content-Type: application/json
+
+{
+    "Login": "Admin",
+    "Password": "admin"
+}
+
+# GET http://localhost:5000/api/room
+# Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IkFkbWluIiwicm9sZSI6IkFkbWluIiwibmJmIjoxNjEyNzE5NTI5LCJleHAiOjE2MTI3MjAxMjksImlhdCI6MTYxMjcxOTUyOX0.CQXHcJxNUeevVkDohmiexxu8iiKmpOG7ZBSCqE7FgWc
+
+# POST http://192.168.0.177:5000/api/auth/authenticate
+# Content-Type: application/json
+
+# {
+#     "Login": "Admin",
+#     "Password": "admin"
+# }
+
+# GET http://192.168.0.177:5000/api/cardSalesHistory
+
+# GET http://192.168.0.177:5000/api/card/12
+
+
+# POST  http://localhost:5000/api/card
+# Content-Type: application/json
+
+# {
+#     "Name": "DayTest",
+#     "Period": "1 мес",
+#     "Price": 4500.00
+# }
+
+# GET http://localhost:5000/api/card
+# Content-Type: application/json
